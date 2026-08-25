@@ -14,7 +14,7 @@
       "date": "20260826",
       "cat": "EXECUTIVE",
       "price": "395.00",
-      "status": "3"
+      "status": "2"
     },
     "AACN|31801|20260826|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -48,6 +48,62 @@
       "price": "395.00",
       "status": "1"
     },
+    "CTNR|11875|20260826|EXECUTIVE": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "06:50 PM",
+      "date": "20260826",
+      "cat": "EXECUTIVE",
+      "price": "395.00",
+      "status": "3"
+    },
+    "CTNR|11875|20260826|VIP": {
+      "venue": "Cinepolis: TNR North City, Suchitra, Hyderabad",
+      "time": "06:50 PM",
+      "date": "20260826",
+      "cat": "VIP",
+      "price": "450.00",
+      "status": "2"
+    },
+    "ILKS|10108|20260826|RECLINER ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "07:00 PM",
+      "date": "20260826",
+      "cat": "RECLINER ROWS",
+      "price": "454.00",
+      "status": "0"
+    },
+    "ILKS|10108|20260826|CLASSIC ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "07:00 PM",
+      "date": "20260826",
+      "cat": "CLASSIC ROWS",
+      "price": "395.00",
+      "status": "2"
+    },
+    "ILKS|10108|20260826|PRIME ROWS": {
+      "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
+      "time": "07:00 PM",
+      "date": "20260826",
+      "cat": "PRIME ROWS",
+      "price": "395.00",
+      "status": "1"
+    },
+    "IGMH|85870|20260826|ROYAL": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "09:00 AM",
+      "date": "20260826",
+      "cat": "ROYAL",
+      "price": "450.00",
+      "status": "2"
+    },
+    "IGMH|85870|20260826|EXECUTIVE": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "09:00 AM",
+      "date": "20260826",
+      "cat": "EXECUTIVE",
+      "price": "395.00",
+      "status": "3"
+    },
     "IGMH|85826|20260826|ROYAL": {
       "venue": "INOX: GSM Mall, Hyderabad",
       "time": "06:00 PM",
@@ -63,6 +119,38 @@
       "cat": "EXECUTIVE",
       "price": "395.00",
       "status": "1"
+    },
+    "APNS|3287|20260826|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "09:00 AM",
+      "date": "20260826",
+      "cat": "GOLD",
+      "price": "450.00",
+      "status": "2"
+    },
+    "APNS|3287|20260826|CLASSIC": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "09:00 AM",
+      "date": "20260826",
+      "cat": "CLASSIC",
+      "price": "395.00",
+      "status": "3"
+    },
+    "APNS|3290|20260826|GOLD": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "07:20 PM",
+      "date": "20260826",
+      "cat": "GOLD",
+      "price": "450.00",
+      "status": "1"
+    },
+    "APNS|3290|20260826|CLASSIC": {
+      "venue": "Aparna Cinemas: Shamshabad",
+      "time": "07:20 PM",
+      "date": "20260826",
+      "cat": "CLASSIC",
+      "price": "395.00",
+      "status": "3"
     }
   },
   "dates": {

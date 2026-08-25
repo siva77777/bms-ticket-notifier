@@ -62,7 +62,7 @@
       "date": "20260826",
       "cat": "VIP",
       "price": "450.00",
-      "status": "2"
+      "status": "1"
     },
     "ILKS|10108|20260826|RECLINER ROWS": {
       "venue": "PVR Lakeshore PXL 4K Laser ATMOS DTS-X Y Junction",
@@ -86,7 +86,7 @@
       "date": "20260826",
       "cat": "PRIME ROWS",
       "price": "395.00",
-      "status": "1"
+      "status": "0"
     },
     "IGMH|85870|20260826|ROYAL": {
       "venue": "INOX: GSM Mall, Hyderabad",
@@ -102,7 +102,7 @@
       "date": "20260826",
       "cat": "EXECUTIVE",
       "price": "395.00",
-      "status": "3"
+      "status": "2"
     },
     "IGMH|85826|20260826|ROYAL": {
       "venue": "INOX: GSM Mall, Hyderabad",
@@ -126,7 +126,7 @@
       "date": "20260826",
       "cat": "GOLD",
       "price": "450.00",
-      "status": "2"
+      "status": "1"
     },
     "APNS|3287|20260826|CLASSIC": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -142,7 +142,7 @@
       "date": "20260826",
       "cat": "GOLD",
       "price": "450.00",
-      "status": "1"
+      "status": "0"
     },
     "APNS|3290|20260826|CLASSIC": {
       "venue": "Aparna Cinemas: Shamshabad",
@@ -150,7 +150,7 @@
       "date": "20260826",
       "cat": "CLASSIC",
       "price": "395.00",
-      "status": "3"
+      "status": "1"
     }
   },
   "dates": {

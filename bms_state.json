@@ -6,7 +6,7 @@
       "date": "20260826",
       "cat": "EXECUTIVE",
       "price": "395.00",
-      "status": "2"
+      "status": "1"
     },
     "AACN|31801|20260826|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -22,7 +22,7 @@
       "date": "20260826",
       "cat": "EXECUTIVE",
       "price": "395.00",
-      "status": "3"
+      "status": "2"
     },
     "AACN|31802|20260826|GOLD": {
       "venue": "Aparna Cinemas: Nallagandla",
@@ -38,7 +38,23 @@
       "date": "20260826",
       "cat": "EXECUTIVE",
       "price": "395.00",
-      "status": "3"
+      "status": "1"
+    },
+    "IGMH|85826|20260826|ROYAL": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "06:00 PM",
+      "date": "20260826",
+      "cat": "ROYAL",
+      "price": "450.00",
+      "status": "0"
+    },
+    "IGMH|85826|20260826|EXECUTIVE": {
+      "venue": "INOX: GSM Mall, Hyderabad",
+      "time": "06:00 PM",
+      "date": "20260826",
+      "cat": "EXECUTIVE",
+      "price": "395.00",
+      "status": "2"
     }
   },
   "dates": {
